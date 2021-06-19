@@ -18,6 +18,7 @@ import java.util.List;
 @RequestMapping("/api/v1/people")
 public class PersonController {
 
+    //Restfull personapi desenvolvida com as boas práticas de programação.
     private PersonService personService;
 
     @Autowired
