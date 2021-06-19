@@ -1,4 +1,5 @@
 # pessoasdio_live
+Digital Innovation: Expert class - Desenvolvendo um sistema de gerenciamento de pessoas em API com Spring Boot
 
 Live coding de um pequeno sistema para o gerenciamento de pessoas de uma empresa através de uma API REST, criada com o Spring Boot.
 
