@@ -16,7 +16,7 @@ import java.util.List;
 @RestController
 @RequestMapping("/api/v1/people")
 
-//com a anotação abaixo n precisa usar construtor
+
 @AllArgsConstructor(onConstructor = @__(@Autowired))
 public class PersonController {
 
